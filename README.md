@@ -67,7 +67,7 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.25
 
 🤝 [LinkedIn](https://www.linkedin.com/in/sethu-kumaran/)  
 💻 [GitHub](https://github.com/Sethu0073)  
-📧 [Email: sethubala718@gmail.com](mailto:sethubala718@gmail.com)  
+📧 Email: [sethubala718@gmail.com](mailto:sethubala718@gmail.com)  
 📞 [Phone: +91 9080964369](tel:+919080964369)
 
 
