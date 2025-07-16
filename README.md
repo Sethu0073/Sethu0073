@@ -57,7 +57,10 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.25
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 #### 📚 Libraries  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -68,6 +71,15 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.25
 
 #### 🧠 Other Skills  
 `Data Cleaning` · `EDA` · `Data Visualization` · `Machine Learning (Basics)`
+
+#### 🤖 AI Skills & Tools  
+![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-blueviolet?style=for-the-badge)  
+![Gemini 2.5 Pro](https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+![Claude 3.7](https://img.shields.io/badge/Claude_3.7-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white) 
+![Sonnet](https://img.shields.io/badge/Sonnet-v0.dev-blue?style=for-the-badge&logo=vercel&logoColor=white) 
+![Bolt.new](https://img.shields.io/badge/Bolt.new-202020?style=for-the-badge&logo=lightning&logoColor=white) 
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 
 ---
 
