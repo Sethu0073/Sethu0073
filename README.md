@@ -70,7 +70,11 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.25
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 #### 🧠 Other Skills  
-`Data Cleaning` · `EDA` · `Data Visualization` · `Machine Learning (Basics)`
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-6C63FF?style=for-the-badge&logo=databricks&logoColor=white) 
+![EDA](https://img.shields.io/badge/EDA-1F77B4?style=for-the-badge&logo=chartdotjs&logoColor=white) 
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-F9A825?style=for-the-badge&logo=plotly&logoColor=black) 
+![Machine Learning (Basics)](https://img.shields.io/badge/Machine_Learning_(Basics)-0A9396?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 #### 🤖 AI Skills & Tools  
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
