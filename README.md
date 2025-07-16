@@ -24,7 +24,7 @@ Driven by a deep interest in data and its real-world impact, I’ve developed pr
 • Applied PCA and hyperparameter tuning to improve performance
 
 🎓 **Education:**  
-SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.25
+SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.26
 
 ---
 
