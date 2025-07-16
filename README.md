@@ -1,9 +1,19 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55955478/235868102-52317ba3-5e46-44cd-bc4c-7603f059b8af.png" width="100%" alt="Data Analyst GitHub Banner"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Sethu Kumaran</h1>
+
 <p align="center">
   🎓 Final-Year CSE Student | 📊 Aspiring Data Analyst | 🧠 Passionate about Data-Driven Decisions
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="Animated coding gif" />
+</p>
+
 ---
+
 
 Driven by a deep interest in data and its real-world impact, I’ve developed projects that transform raw data into clear, actionable insights.
 
@@ -40,7 +50,6 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.26
 | [**Sales Analytics Dashboard**](https://github.com/Sethu0073/Sales-Analytics-Dashboard) | Dashboard summarizing sales, cost, and profit metrics with shipment and rep-wise breakdown. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | [**Netflix SQL Data Analysis**](https://github.com/Sethu0073/Sql_Netflix_Project) | SQL queries to explore genres, countries, release trends in Netflix dataset. | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
-
 ---
 
 ### 🛠️ Skills & Technologies
@@ -61,7 +70,6 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.26
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 #### 📚 Libraries  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -74,7 +82,6 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.26
 ![EDA](https://img.shields.io/badge/EDA-1F77B4?style=for-the-badge&logo=chartdotjs&logoColor=white) 
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-F9A825?style=for-the-badge&logo=plotly&logoColor=black) 
 ![Machine Learning (Basics)](https://img.shields.io/badge/Machine_Learning_(Basics)-0A9396?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 
 #### 🤖 AI Skills & Tools  
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
@@ -105,6 +112,5 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.26
 
 ---
 
-> **“Data is the new oil. It’s valuable, but if unrefined, it cannot really be used.”** – Clive Humby
-
+> **“Data is the new oil. It’s valuable, but if unrefined, it cannot really be used.”** – Clive Humby  
 Thanks for visiting my profile! Feel free to connect, collaborate, or check out my projects — let’s turn data into impact!
