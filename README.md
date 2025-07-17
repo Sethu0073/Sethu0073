@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55955478/235868102-52317ba3-5e46-44cd-bc4c-7603f059b8af.png" width="100%" alt="Data Analyst GitHub Banner"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm Sethu Kumaran</h1>
 
