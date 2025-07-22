@@ -26,7 +26,7 @@ Driven by a deep interest in data and its real-world impact, I’ve developed pr
 • Built Google Sheets dashboards for expense tracking and unit economics  
 • Designed multi-role templates and visual spend analysis
 
-🧠 **AI Intern @ StemTec**  
+🧠 **Student Intern @ StemTec**  
 • Built PyTorch models using best practices in computer vision  
 • Applied PCA and hyperparameter tuning to improve performance
 
