@@ -93,7 +93,7 @@ SRM Institute of Science and Technology – B.Tech CSE | CGPA: 9.26
 
 ### 🏅 Certifications
 - Oracle Cloud Infrastructure 2024 – **Certified Foundations Associate**
-- NPTEL – **Machine Learning**, **Cloud Computing**
+- NPTEL – **Machine Learning**, **Cloud Computing**, **Project Management**
 - Coursera – **Crash Course on Python**, **Foundations: Data, Data Everywhere**
 - SkillUp – **Power BI for Beginners**
 - TechTip24 – **Workshop on Data Analytics using Power BI**
